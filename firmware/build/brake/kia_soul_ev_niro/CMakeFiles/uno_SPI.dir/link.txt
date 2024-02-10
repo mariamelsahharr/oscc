@@ -1,0 +1,2 @@
+/usr/share/arduino/hardware/tools/avr/bin/avr-ar qc libuno_SPI.a CMakeFiles/uno_SPI.dir/usr/share/arduino/hardware/arduino/avr/libraries/SPI/src/SPI.cpp.obj
+/usr/share/arduino/hardware/tools/avr/bin/avr-ranlib libuno_SPI.a

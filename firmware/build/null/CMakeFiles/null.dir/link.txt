@@ -1,0 +1,1 @@
+/usr/share/arduino/hardware/tools/avr/bin/avr-g++ -g -Os        -fno-exceptions -Wl,--gc-sections -lm -mmcu=atmega328p  CMakeFiles/null.dir/main.cpp.obj CMakeFiles/null.dir/__/common/libs/arduino_init/arduino_init.cpp.obj -o null.elf  ../brake/kia_soul_ev_niro/libuno_CORE.a -lc -lm 

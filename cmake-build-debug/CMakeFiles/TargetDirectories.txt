@@ -1,0 +1,3 @@
+C:/CODE/oscc/cmake-build-debug/CMakeFiles/oscc.dir
+C:/CODE/oscc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CODE/oscc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

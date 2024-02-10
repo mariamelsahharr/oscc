@@ -1,0 +1,3 @@
+/mnt/c/Code/oscc/firmware/CMakeFiles/oscc.dir
+/mnt/c/Code/oscc/firmware/CMakeFiles/edit_cache.dir
+/mnt/c/Code/oscc/firmware/CMakeFiles/rebuild_cache.dir
